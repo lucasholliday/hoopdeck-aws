@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 import urllib.parse
 
 # Replace with your actual API key
-TICKETMASTER_API_KEY = "kK0PGQ3GSjk9eDGUdSK9EzqU4vEJGQ1x"
+TICKETMASTER_API_KEY = "API_KEY"
 
 def lambda_handler(event, context):
     try:
