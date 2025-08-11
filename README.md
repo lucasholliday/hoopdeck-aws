@@ -3,7 +3,7 @@
 HoopDeck is a basketball analytics platform designed to provide fans with advanced insights into team and player performance.  
 This project demonstrates my use of **AWS cloud services** to build a serverless architecture, including **AWS Lambda**, **API Gateway**, **S3**, **RDS (MySQL)**, and **SageMaker** for AI-driven analysis.  
 
-*I had to pause my AWS account due to SageMaker charges and running through the free tier, so the system is not currently operational.  
+I had to pause my AWS account due to SageMaker charges and running through the free tier, so the system is not currently operational.  
 However, the repository includes the architecture, data flow, and code for each AWS Lambda function, as well as the client configuration.
 
 ---
