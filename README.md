@@ -28,11 +28,11 @@ The goal of HoopDeck was to:
 **Project Structure**  
 [![HoopDeck Structure](docs/HoopDeck_Structure.png)](docs/HoopDeck_Structure.png)
 
-**API Gateway Endpoints**  
-[![HoopDeck API Gateway](docs/HoopDeck_API_Gateway.png)](docs/HoopDeck_API_Gateway.png)
-
 **Database Schema**  
 [![HoopDeck Database Schema](docs/HoopDeck_Database_Schema.png)](docs/HoopDeck_Database_Schema.png)
+
+**API Gateway Endpoints**  
+[![HoopDeck API Gateway](docs/HoopDeck_API_Gateway.png)](docs/HoopDeck_API_Gateway.png)
 
 ---
 
