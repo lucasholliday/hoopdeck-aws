@@ -17,7 +17,7 @@ The goal of HoopDeck was to:
 - Provide API endpoints for:
   - `/stats/{team}` – Returns a team’s seasonal statistics.
   - `/graph/{stat1}/{stat2}` – Predicts the game outcome between two teams for a given season using SageMaker models.
-  - '/predict/{teamA}/{teamB}/year' - Retrieves available games in a given city using the **Ticketmaster API**.
+  - `/predict/{teamA}/{teamB}/year` - Retrieves available games in a given city using the **Ticketmaster API**.
 - Use AWS SageMaker for AI-powered predictions and analytics.
 - Host frontend via a Dockerized client.
 
