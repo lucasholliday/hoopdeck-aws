@@ -62,6 +62,8 @@ The goal of HoopDeck was to:
 
 └── hoopdeck-sql.sql          # MySQL schema for AWS RDS
 
+```
+
 ## 📊 System Diagrams
 
 **Project Structure**  
