@@ -90,15 +90,3 @@ For more details on the system architecture, workflow, and AWS services used, se
 [**HoopDeck Project Description (PDF)**](docs/HoopDeck_Description.pdf).
 
 ---
-
-## 🚀 Status
-
-This repository is for **demonstration purposes** only and is **not fully deployed**.  
-It highlights my ability to:
-
-- Architect AWS-based serverless solutions.
-- Write Lambda functions for API-driven workflows.
-- Integrate Python data processing with AWS services.
-- Use SageMaker for predictive analytics.
-
----
