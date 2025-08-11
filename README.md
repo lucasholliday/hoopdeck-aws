@@ -23,6 +23,26 @@ The goal of HoopDeck was to:
 
 ---
 
+## 📊 System Diagrams
+
+**Project Structure**  
+[![HoopDeck Structure](docs/HoopDeck_Structure.png)](docs/HoopDeck_Structure.png)
+
+**API Gateway Endpoints**  
+[![HoopDeck API Gateway](docs/HoopDeck_API_Gateway.png)](docs/HoopDeck_API_Gateway.png)
+
+**Database Schema**  
+[![HoopDeck Database Schema](docs/HoopDeck_Database_Schema.png)](docs/HoopDeck_Database_Schema.png)
+
+---
+
+## 📈 Example Output
+
+Example of a **Points Per Game vs Turnovers** chart generated from stored team data:  
+[![PPG vs TOV Chart](docs/2025_PPG_TOV_graph.png)](docs/2025_PPG_TOV_graph.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **AWS Lambda** – Serverless compute for backend logic
@@ -63,24 +83,6 @@ The goal of HoopDeck was to:
 └── hoopdeck-sql.sql          # MySQL schema for AWS RDS
 
 ```
-
-## 📊 System Diagrams
-
-**Project Structure**  
-[![HoopDeck Structure](docs/HoopDeck_Structure.png)](docs/HoopDeck_Structure.png)
-
-**API Gateway Endpoints**  
-[![HoopDeck API Gateway](docs/HoopDeck_API_Gateway.png)](docs/HoopDeck_API_Gateway.png)
-
-**Database Schema**  
-[![HoopDeck Database Schema](docs/HoopDeck_Database_Schema.png)](docs/HoopDeck_Database_Schema.png)
-
----
-
-## 📈 Example Output
-
-Example of a **Points Per Game vs Turnovers** chart generated from stored team data:  
-[![PPG vs TOV Chart](docs/2025_PPG_TOV_graph.png)](docs/2025_PPG_TOV_graph.png)
 
 ---
 
